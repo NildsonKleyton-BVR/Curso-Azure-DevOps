@@ -6,8 +6,8 @@ Recentemente, fiz uma promessa de que, quando meu canal no Youtube atingisse a m
 Infelizmente agora não consigo mais fornecer um certificado, mas espero que o conteúdo seja útil a todos vocês.
 
 ## Participe do nossos Grupos
-- [ ] [Discord](https://discord.gg/HAr9WFYkpB)
-- [ ] [Telegram](https://t.me/github_br)
+-  [Discord](https://discord.gg/HAr9WFYkpB)
+-  [Telegram](https://t.me/github_br)
   
  ## Inicio - Boas Vindas
  - [ ] [Bem Vindos](https://youtu.be/BL1P94orXC4)
